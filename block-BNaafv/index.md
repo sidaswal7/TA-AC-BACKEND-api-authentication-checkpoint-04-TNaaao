@@ -247,7 +247,8 @@ It should return an array of `All Question` in the above specified format.
 - optional fields are
   - description
   - tags
-  - title
+  - 
+  asdasd
 
 It should return the `Question` which was updated.
 
